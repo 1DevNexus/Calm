@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "baseUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Calm/main/",
+  "courses": [
+    {
+      "id": "basics",
+      "title": "Basics Course",
+      "sessions": [
+        { "id": "bsc_1", "title": "Session 1: Breath and Body Anchor", "urlPath": "basics/1.Breath%20and%20Body%20Anchor.calm" },
+        { "id": "bsc_2", "title": "Session 2: Body Scan and Releasing Tension", "urlPath": "basics/2.Body%20Scan%20and%20Releasing%20Tension.calm" },
+        { "id": "bsc_3", "title": "Session 3: Resetting the Nervous System", "urlPath": "basics/3.1.Resetting%20the%20Nervous%20System.calm" },
+        { "id": "bsc_4", "title": "Session 4: The Muscle of Attention and Distraction", "urlPath": "basics/4.The%20Muscle%20of%20Attention%20and%20Distraction.calm" },
+        { "id": "bsc_5", "title": "Session 5: Sensory Awareness and Sounds", "urlPath": "basics/5.Sensory%20Awareness%20and%20Sounds.calm" },
+        { "id": "bsc_6", "title": "Session 6: Observing and Defusing Thoughts", "urlPath": "basics/6.Observing%20and%20Defusing%20Thoughts.calm" },
+        { "id": "bsc_7", "title": "Session 7: Naming Emotions", "urlPath": "basics/7.Naming%20Emotions.calm" },
+        { "id": "bsc_8", "title": "Session 8: Patience and Space with Discomfort", "urlPath": "basics/8.Patience%20and%20Space%20with%20Discomfort.calm" },
+        { "id": "bsc_9", "title": "Session 9: Acceptance and Non-Judgmental Mind", "urlPath": "basics/9.Acceptance%20and%20Non-Judgmental%20Mind.calm" },
+        { "id": "bsc_10", "title": "Session 10: Open and Expanded Awareness", "urlPath": "basics/10.Open%20and%20Expanded%20Awareness.calm" },
+        { "id": "bsc_11", "title": "Session 11: Self-Compassion", "urlPath": "basics/11.Self-Compassion.calm" },
+        { "id": "bsc_12", "title": "Session 12: Mindfulness Off the Cushion", "urlPath": "basics/12.Mindfulness%20Off%20the%20Cushion.calm" }
+      ]
+    },
+    {
+      "id": "happiness",
+      "title": "Happiness Course",
+      "sessions": [
+        { "id": "hap_1", "title": "Session 1: The Gratitude Anchor", "urlPath": "Happiness/1.The%20Gratitude%20Anchor.calm" },
+        { "id": "hap_2", "title": "Session 2: Defusing Negative Thoughts", "urlPath": "Happiness/2.Defusing%20Negative%20Thoughts.calm" },
+        { "id": "hap_3", "title": "Session 3: Self-Compassion", "urlPath": "Happiness/3.Self-Compassion.calm" },
+        { "id": "hap_4", "title": "Session 4: Savoring the Moment", "urlPath": "Happiness/4.Savoring%20the%20Moment.calm" },
+        { "id": "hap_5", "title": "Session 5: Meaning and Values", "urlPath": "Happiness/5.Meaning%20and%20Values.calm" },
+        { "id": "hap_6", "title": "Session 6: The Inner Smile", "urlPath": "Happiness/6.The%20Inner%20Smile.calm" }
+      ]
+    },
+    {
+      "id": "overthinking",
+      "title": "Overthinking Course",
+      "sessions": [
+        { "id": "ovr_1", "title": "Session 1: The Observer (Cognitive Defusion)", "urlPath": "overthinking/1.The%20Observer%20(Cognitive%20Defusion).calm" },
+        { "id": "ovr_2", "title": "Session 2: The Anchor (Grounding in the Present)", "urlPath": "overthinking/2.The%20Anchor%20(Grounding%20in%20the%20Present).calm" },
+        { "id": "ovr_3", "title": "Session 3: The Worry Container (Compartmentalization)", "urlPath": "overthinking/3.The%20Worry%20Container%20(Compartmentalization).calm" },
+        { "id": "ovr_4", "title": "Session 4: The Fact Checker (Cognitive Restructuring)", "urlPath": "overthinking/4.The%20Fact%20Checker%20(Cognitive%20Restructuring).calm" },
+        { "id": "ovr_5", "title": "Session 5: The Letting Go (Acceptance)", "urlPath": "overthinking/5.The%20Letting%20Go%20(Acceptance).calm" },
+        { "id": "ovr_6", "title": "Session 6: The Compassionate Mind", "urlPath": "overthinking/6.The%20Compassionate%20Mind.calm" }
+      ]
+    },
+    {
+      "id": "sweet_sleep",
+      "title": "Sweet Sleep Course",
+      "sessions": [
+        { "id": "slp_1", "title": "Session 1: Unwinding the Mind", "urlPath": "sweet%20sleep/Session%201%20-%20Unwinding%20the%20Mind.calm" },
+        { "id": "slp_2", "title": "Session 2: The 4-7-8 Tranquilizer", "urlPath": "sweet%20sleep/Session%202%20-%20The%204-7-8%20Tranquilizer.calm" },
+        { "id": "slp_3", "title": "Session 3: NSDR (Non-Sleep Deep Rest)", "urlPath": "sweet%20sleep/Session%203%20-%20NSDR%20(Non-Sleep%20Deep%20Rest).calm" },
+        { "id": "slp_4", "title": "Session 4: Autogenic Heavy Limbs", "urlPath": "sweet%20sleep/Session%204%20-%20Autogenic%20Heavy%20Limbs.calm" },
+        { "id": "slp_5", "title": "Session 5: Cognitive Shuffling", "urlPath": "sweet%20sleep/Session%205%20-%20Cognitive%20Shuffling.calm" },
+        { "id": "slp_6", "title": "Session 6: Progressive Muscle Deactivation", "urlPath": "sweet%20sleep/Session%206%20-%20Progressive%20Muscle%20Deactivation.calm" }
+      ]
+    }
+  ]
+}
